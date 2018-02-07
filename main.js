@@ -1,3 +1,5 @@
+<!--  Uses jquery -->
+
 $(document).ready(function(){
   
   startFresh();
